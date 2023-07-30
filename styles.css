@@ -133,35 +133,35 @@ body {
     padding-right: 1rem;
 }
 
-.sign-up {
-    background-color: #3882f6;
+.book-here {
+    background-color: #44986A;
     padding: 48px 100px;
     margin: 6vw 12vw;
     border-radius: 12px;
     color: #f9f1f8;
 }
 
-.sign-up .section {
+.book-here .section {
     display: flex;
     justify-content: space-between;
 }
 
-.sign-up .section h4, .sign-up .section p {
+.book-here .section h4, .book-here .section p {
     margin: 0;
 }
 
-.sign-up .section h4 {
+.book-here .section h4 {
     font-size: 22px;
 }
 
-.sign-up .section p{
+.book-here .section p{
     font-size: 18px;
 }
 
-.sign-up button {
+.book-here button {
     border: 2px solid #f9f1f8;
     border-radius: 8px;
-    background-color: #3882f6;
+    background-color: #44986A;
     color: #f9f1f8;
     padding: 0 32px;
     font-weight: 700;
