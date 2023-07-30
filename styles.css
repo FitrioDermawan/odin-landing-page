@@ -37,7 +37,7 @@ body {
     display: flex;
     align-items: center;
     background-color: #D3413B;
-    padding: 6vw 12vw;
+    padding: 3vw 12vw 6vw;
     gap: 72px;
 }
 
